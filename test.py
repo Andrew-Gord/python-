@@ -1,2 +1,2 @@
 print("Testing");
-print("test2");
+print();
